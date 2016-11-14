@@ -1,0 +1,8 @@
+{
+  "name": "Mechanix",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ninbryan/Mechanix.git",
+  "author": "Bryan Maamo <ninjabryan@gmail.com>",
+  "license": "MIT"
+}
